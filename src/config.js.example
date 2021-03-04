@@ -1,0 +1,6 @@
+const config = {
+    airports: ['AUS', 'PHX', 'SYR'],
+    useLive: false,
+    AVIATIONSTACK_KEY: 'AVIATIONSTACK_KEY',
+    MAPBOX_KEY: 'MAPBOX_KEY'
+}
